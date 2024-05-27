@@ -8,11 +8,11 @@ Welcome to the DeFi Empire, a cutting-edge project introducing the ERC20 token, 
 
 ### Star (STR) Token
 
-Star (STR) is an ERC20 token that provides essential features for decentralized transactions, including total supply tracking, balance management, and events for transfers and approvals. Users can engage in secure and transparent financial transactions using BZ within the DeFi Empire ecosystem.
+Star (STR) is an ERC20 token that provides essential features for decentralized transactions, including total supply tracking, balance management, and events for transfers and approvals. Users can engage in secure and transparent financial transactions using STR within the DeFi Empire ecosystem.
 
 ### Vault Contract
 
-The Vault contract, built to interact seamlessly with BZ through the IERC20 interface, offers a secure platform for users to deposit and withdraw funds. Users earn shares proportionate to their contributions, creating a fair and efficient system for decentralized finance activities.
+The Vault contract, built to interact seamlessly with STR through the IERC20 interface, offers a secure platform for users to deposit and withdraw funds. Users earn shares proportionate to their contributions, creating a fair and efficient system for decentralized finance activities.
 
 ## Getting Started
 
